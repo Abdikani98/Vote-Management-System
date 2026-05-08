@@ -1,0 +1,50 @@
+{
+  "students": {
+    "abdirahman@gmail.com": {
+      "fullName": "abdirahman",
+      "email": "abdirahman@gmail.com",
+      "semester": "Semester 6",
+      "registeredAt": "2026-05-07T21:10:58.427Z",
+      "hasVoted": false
+    },
+    "faaraxxasaan@gmail.com": {
+      "fullName": "faarax xasaan",
+      "email": "faaraxxasaan@gmail.com",
+      "semester": "Semester 4",
+      "registeredAt": "2026-05-07T21:35:06.439Z",
+      "hasVoted": true,
+      "votedFor": "c1"
+    },
+    "anab@gmail.com": {
+      "fullName": "anab",
+      "email": "anab@gmail.com",
+      "semester": "Semester 4",
+      "registeredAt": "2026-05-08T06:44:01.921Z",
+      "hasVoted": true,
+      "votedFor": "c3"
+    }
+  },
+  "candidates": [
+    {
+      "id": "c1",
+      "name": "Cabdi Nuur",
+      "teamName": "Hormar Team",
+      "voteCount": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "c2",
+      "name": "Zahra Cali",
+      "teamName": "Guul Team",
+      "voteCount": 0,
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "c3",
+      "name": "Maxamed Axmed",
+      "teamName": "Midnimo Team",
+      "voteCount": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+    }
+  ]
+}
